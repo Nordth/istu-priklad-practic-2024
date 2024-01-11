@@ -11,6 +11,7 @@
 
 ## Поток D
 1. [День 1](practics_1d.pdf)
+1. [День 2](practics_2d.pdf)
 
 ## Поток E
 1. [День 1](practics_1e.pdf)
