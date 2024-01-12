@@ -2,6 +2,7 @@
 
 ## Поток A
 1. [День 1](practics_1a.pdf)
+1. [День 2](practics_2a.pdf)
 
 ## Поток B
 1. [День 1](practics_1b.pdf)
