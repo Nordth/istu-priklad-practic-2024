@@ -9,6 +9,7 @@
 1. [День 1](practics_1b.pdf)
 1. [День 2](practics_2b.pdf)
 1. [День 3](practics_3b.pdf)
+1. [День 4](practics_4b.pdf)
 
 ## Поток C
 1. [День 1](practics_1c.pdf)
@@ -24,6 +25,7 @@
 1. [День 1](practics_1e.pdf)
 1. [День 2](practics_2e.pdf)
 1. [День 3](practics_3e.pdf)
+1. [День 4](practics_4e.pdf)
 
 ## Прочее
 - [Результаты](https://docs.google.com/spreadsheets/d/1iuqt8iHtVKNDWV1R_MRCymnOF0RtjOEYwnFxCmj-L6g/edit?usp=sharing)
