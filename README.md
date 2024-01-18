@@ -31,4 +31,5 @@
 
 ## Прочее
 - [Результаты](https://docs.google.com/spreadsheets/d/1iuqt8iHtVKNDWV1R_MRCymnOF0RtjOEYwnFxCmj-L6g/edit?usp=sharing)
+- [Доп. задания](practics_dop.pdf)
 
