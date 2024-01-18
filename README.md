@@ -4,6 +4,7 @@
 1. [День 1](practics_1a.pdf)
 1. [День 2](practics_2a.pdf)
 1. [День 3](practics_3a.pdf)
+1. [День 4](practics_4a.pdf)
 
 ## Поток B
 1. [День 1](practics_1b.pdf)
